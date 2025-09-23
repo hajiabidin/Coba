@@ -2,7 +2,7 @@
 
 #EXTINF:0 group-logo="https://raw.githubusercontent.com/hajiabidin/Coba/refs/heads/main/gmb/tv/hi.png" tvg-logo="https://raw.githubusercontent.com/hajiabidin/Coba/refs/heads/main/gmb/tv/Yt.png" group-title="001-ADMIN", SUBCRIBE YOUTUBE CHANNEL SAYA
 https://www.youtube.com/@Abidintea
-#EXTINF:100 tvg-logo="https://raw.githubusercontent.com/hajiabidin/Coba/refs/heads/main/gmb/tv/hi.png" group-title="001-ADMIN",CONTAK ADMIN
+#EXTINF:100 tvg-logo="https://raw.githubusercontent.com/hajiabidin/Coba/refs/heads/main/gmb/tv/hi.png" group-title="ADMIN",CONTAK ADMIN
 #EXTVLCOPT:network-caching=1000
 https://raw.githubusercontent.com/hajiabidin/Coba/refs/heads/main/gmb/plag/asia/id.png
 
@@ -467,6 +467,7 @@ https://ott-balancer.tvri.go.id/live/eds/Jogjakarta/hls/Jogjakarta.m3u8
 
 
 #EXTM3U billed-msg="Selamat datang di Playlist By Abidin"
+
 
 
 
