@@ -198,7 +198,7 @@ https://atemeshield1-voe.sysln.id/live/eds/MOJIOChannel/mpd/MOJIOChannel.mpd
 #EXTINF:-1 tvg-logo="https://iili.io/Jbtnh2j.png" group-title="INDONESIA",LOKAL - [0100]Bandung TV
 http://202.150.153.254:65500/bandungtvWEBSITE.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/hh/hanacaraka-tv-id.png" group-title="INDONESIA",LOKAL - [0101]Hanacaraka TV
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/hajiabidin/Coba/refs/heads/main/gmb/tv/hanacaraka.png" group-title="INDONESIA",LOKAL - [0101]Hanacaraka TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -342,7 +342,7 @@ https://dhohotv.siar.us/dhohotv/live/playlist.m3u8?checkedby:iptvcat.com
 #KODIPROP:inputstream.ffmpegdirect.stream_mode=timeshift
 #KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.100 Safari/537.36
-#EXTINF:-1 tvg-id="" tvg-logo="https://tvtabalong.com/wp-content/uploads/2022/03/logo-tv-tabalong.png" group-title="INDONESIA",LOKAL - [0128] TV Tabalong
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/hajiabidin/Coba/refs/heads/main/gmb/tv/tabalong.png" group-title="INDONESIA",LOKAL - [0128] TV Tabalong
 https://5bf7b725107e5.streamlock.net/tvtabalong/tvtabalong/playlist.m3u8
 
 #KODIPROP:inputstream=inputstream.ffmpegdirect
@@ -467,6 +467,7 @@ https://ott-balancer.tvri.go.id/live/eds/Jogjakarta/hls/Jogjakarta.m3u8
 
 
 #EXTM3U billed-msg="Selamat datang di Playlist By Abidin"
+
 
 
 
