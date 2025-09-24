@@ -465,6 +465,113 @@ https://ott-balancer.tvri.go.id/live/eds/Sumut/hls/Sumut.m3u8
 https://ott-balancer.tvri.go.id/live/eds/Jogjakarta/hls/Jogjakarta.m3u8
 
 
+
+#########################
+#						#
+#		ID-TV			#
+#						#
+#########################
+
+
+
+#EXTINF:-1 tvg-id="SindoNews.id" group-title="INDIHOME" group-logo="https://raw.githubusercontent.com/hajiabidin/Coba/refs/heads/main/gmb/GR/IndihomeTV.png" tvg-logo="https://images.indihometv.com/assets/88_SINDONEWSTV_2025_03_17_15_14_55.png",Indihome - [0300] Sindonews
+https://cdn10jtedge.indihometv.com/atm/DASH/mncnews/manifest.mpd
+
+#EXTINF:-1 tvg-id="--" group-title="INDIHOME" tvg-logo="https://images.indihometv.com/assets/88_INDOSIAR_2025_03_17_14_54_45.png",Indihome - [0301] Indosiar
+https://cdn10jtedge.indihometv.com/atm/DASH/indosiar/manifest.mpd
+
+#EXTINF:-1 tvg-id="--" group-title="INDIHOME" tvg-logo="https://images.indihometv.com/assets/88_SCTV_2025_03_17_14_53_51.png",Indihome - [0302] Sctv
+https://cdn10jtedge.indihometv.com/atm/DASH/sctv/manifest.mpd
+
+#EXTINF:-1 tvg-id="--" group-title="INDIHOME" tvg-logo="https://images.indihometv.com/assets/88_MOJI_2025_03_17_15_22_26.png",Indihome - [0303] Moji TV
+#EXTVLCOPT:http-user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+#EXTVLCOPT:http-referrer=https://www.indihometv.com/
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+https://cdn08jtedge.indihometv.com/dassdvr/134/ochannel/manifest.mpd
+
+#EXTINF:-1 tvg-id="--" group-title="INDIHOME" tvg-logo="https://images.indihometv.com/assets/88_TRANS7_2025_03_19_08_29_53.png",Indihome - [0304] Trans 7
+https://cdn10jtedge.indihometv.com/atm/DASH/trans7/manifest.mpd
+
+#EXTINF:-1 tvg-id="--" group-title="INDIHOME" tvg-logo="https://images.indihometv.com/assets/88_TRANSTV_2025_03_17_14_51_34.png",Indihome - [0305] Trans TV
+https://cdn10jtedge.indihometv.com/atm/DASH/transtv/manifest.mpd
+
+#EXTINF:-1 tvg-id="--" group-title="INDIHOME" tvg-logo="https://images.indihometv.com/assets/88_TVONE_2025_03_17_14_49_56.png",Indihome - [0306] TvOne
+https://cdn10jtedge.indihometv.com/atm/DASH/tvone/manifest.mpd
+
+#EXTINF:-1 tvg-id="--" group-title="INDIHOME" tvg-logo="https://images.indihometv.com/assets/88_INEWS_2025_03_17_15_13_44.png",Indihome - [0307] Inews
+https://cdn10jtedge.indihometv.com/atm/DASH/inews/manifest.mpd
+
+#EXTINF:-1 tvg-id="--" group-title="INDIHOME" tvg-logo="https://images.indihometv.com/assets/88_CNA_2025_03_17_14_56_00.png",Indihome - [0308] News Asia
+https://cdn10jtedge.indihometv.com/atm/DASH/CHANNEL_NEWS_ASIA/manifest.mpd
+
+#EXTINF:-1 tvg-id="--" group-title="INDIHOME" tvg-logo="https://images.indihometv.com/assets/88_BLOOMBERG_2025_03_17_15_29_38.png",Indihome - [0309] Bloomberg
+https://cdn10jtedge.indihometv.com/atm/DASH/BLOOMBERG/manifest.mpd
+
+#EXTINF:-1 tvg-id="--" group-title="INDIHOME" tvg-logo="https://images.indihometv.com/assets/88_ATV_2025_03_17_15_20_21.png",Indihome - [0309] ATV
+https://cdn10jtedge.indihometv.com/atm/DASH/atv/manifest.mpd
+
+#EXTINF:-1 tvg-id="--" group-title="INDIHOME" tvg-logo="https://images.indihometv.com/assets/88_FASHIONTV_2025_03_17_14_55_17.png",Indihome - [0310] Fashion TV
+https://cdn10jtedge.indihometv.com/atm/DASH/FASHION_TV/manifest.mpd
+
+#EXTINF:-1 tvg-id="--" group-title="INDIHOME" tvg-logo="https://images.indihometv.com/assets/88_MYKIDZ_2025_03_17_14_58_58.png",Indihome - [0311] MyKidz
+https://cdn10jtedge.indihometv.com/atm/DASH/mykids/manifest.mpd
+
+#EXTINF:-1 tvg-id="--" group-title="INDIHOME" tvg-logo="https://images.indihometv.com/assets/88_TV5MONDE_2025_03_17_15_20_39.png",Indihome - [0312] TV5Monde
+https://cdn10jtedge.indihometv.com/atm/DASH/tv5monde/manifest.mpd
+
+#EXTINF:-1 tvg-id="--" group-title="INDIHOME" tvg-logo="https://images.indihometv.com/assets/88_KPLUS_2025_03_17_15_17_05.png",Indihome - [0313] Kplus
+https://cdn10jtedge.indihometv.com/atm/DASH/kplus/manifest.mpd
+
+#EXTINF:-1 tvg-id="--" group-title="INDIHOME" tvg-logo="https://images.indihometv.com/assets/88_AXN_2025_03_17_15_04_05.png",Indihome - [0314] AXN
+https://cdn10jtedge.indihometv.com/atm/DASH/axn/manifest.mpd
+
+#EXTINF:-1 tvg-id="--" group-title="INDIHOME" tvg-logo="https://images.indihometv.com/assets/88_BIOSKOPINDONESIA_2025_03_17_15_24_51.png",Indihome - [0315] BIOSKOP INDONESIA
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux armv7l) AppleWebKit/537.36 (KHTML, like Gecko) QtWebEngine/5.9.7 Chrome/56.0.2924.122 Safari/537.36 Sky_STB_ST412_2018/1.0.0 (Sky, EM150UK, )
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
+https://cdn08jtedge.indihometv.com/dassdvr/130/bioskopindonesia/manifest.mpd
+
+#EXTINF:-1 tvg-id="--" group-title="INDIHOME" tvg-logo="https://images.indihometv.com/assets/88_MUSIKINDONESIA_2025_03_17_15_24_16.png",Indihome - [0316] Musik Indonesia
+#EXTVLCOPT:http-user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+#EXTVLCOPT:http-referrer=https://www.indihometv.com/
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+https://cdn08jtedge.indihometv.com/dassdvr/134/musikindo/manifest.mpd
+
+#EXTINF:-1 tvg-id="--" group-title="INDIHOME" tvg-logo="https://images.indihometv.com/assets/88_MOONBUGKIDS_2025_03_17_15_10_52.png",Indihome - [0317] Moonbug
+#EXTVLCOPT:http-user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+#EXTVLCOPT:http-referrer=https://www.indihometv.com/
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+https://cdn08jtedge.indihometv.com/dassdvr/134/moonbug/manifest.mpd
+
+#EXTINF:-1 tvg-id="--" group-title="INDIHOME" tvg-logo="https://images.indihometv.com/assets/88_MTATV_2025_03_17_14_56_40.png",Indihome - [0318] MTATV
+https://cdn10jtedge.indihometv.com/atm/DASH/mtatv/manifest.mpd
+
+#EXTINF:-1 tvg-id="--" group-title="INDIHOME" tvg-logo="https://images.indihometv.com/assets/88_RODJATV_2025_03_17_14_52_59.png",Indihome - [0318] Rodja TV
+https://cdn10jtedge.indihometv.com/atm/DASH/rodjatv/manifest.mpd
+
+#EXTINF:-1 tvg-id="--" group-title="INDIHOME" tvg-logo="https://images.indihometv.com/assets/88_DMITV-88-WARNA_2025_07_23_10_09_34.png",Indihome - [0319] Dmi TV
+https://cdn10jtedge.indihometv.com/atm/DASH/tawaftv/manifest.mpd
+
+#EXTINF:-1 tvg-id="--" group-title="INDIHOME"  tvg-logo="https://images.indihometv.com/assets/88_ALJAZEERA_2025_03_17_14_58_14.png",Indihome - [0320] Al Jazeera
+https://cdn10jtedge.indihometv.com/atm/DASH/aljazeera/manifest.mpd
+
+#EXTINF:-1 tvg-id="--" group-title="INDIHOME" tvg-logo="https://images.indihometv.com/assets/88_JTV_2025_03_17_15_01_58.png",Indihome - [0321] JTV
+https://cdn10jtedge.indihometv.com/atm/DASH/jtv/manifest.mpd
+
+#EXTINF:-1 tvg-id="--" group-title="INDIHOME" tvg-logo="https://images.indihometv.com/assets/88_BALI-TV_2025_03_17_15_01_03.png",Indihome - [0322] Bali TV
+https://cdn10jtedge.indihometv.com/atm/DASH/balitv/manifest.mpd
+
+#EXTINF:-1 tvg-id="--" group-title="INDIHOME" tvg-logo="https://images.indihometv.com/assets/88_NUSANTARATV_2025_03_17_15_11_54.png",Indihome - [0323] Nusantara
+https://cdn10jtedge.indihometv.com/atm/DASH/nusantaratv/manifest.mpd
+
+
 #########################
 #						#
 #		Dens tv			#
@@ -729,6 +836,7 @@ http://op-group1-swiftservesd-1.dens.tv/s/s27/index.m3u8?app_type=web&amp;userid
 
 
 #EXTM3U billed-msg="Selamat datang di Playlist By Abidin"
+
 
 
 
