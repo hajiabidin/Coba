@@ -37,7 +37,7 @@ http://op-group1-swiftservehd-1.dens.tv/h/h235/02.m3u8
 https://atemecdnbalancer-voe.sysln.id/live/eds/IndosiarHD/mpd/IndosiarHD.mpd
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/hajiabidin/Coba/refs/heads/main/gmb/tv/mnc.png" group-title="INDONESIA",LOKAL - [0005] MNC TV (R+)
-https://mnctv-cutv.rctiplus.id/mnctv-sdi.m3u8
+https://d30to2znqr74e4.cloudfront.net/index_7.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/hajiabidin/Coba/refs/heads/main/gmb/tv/mnc.png" group-title="INDONESIA",LOKAL - [0006] MNC TV V+
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -46,7 +46,7 @@ https://mnctv-cutv.rctiplus.id/mnctv-sdi.m3u8
 https://d2xz2v5wuvgur6.cloudfront.net/out/v1/d6b026ad50f14b7f9af5ddd5450007d4/index.mpd
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/hajiabidin/Coba/refs/heads/main/gmb/tv/rcti.png" group-title="INDONESIA",LOKAL - [0007] RCTI (R+)
-https://rcti-cutv.rctiplus.id/rcti-sdi.m3u8
+https://d3uvssv5u81vdl.cloudfront.net/index_10.m3u8
 
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -56,7 +56,7 @@ https://rcti-cutv.rctiplus.id/rcti-sdi.m3u8
 https://d2xz2v5wuvgur6.cloudfront.net/out/v1/997ce8767b604fae9fce05379b3b8b3a/index.mpd
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/hajiabidin/Coba/refs/heads/main/gmb/tv/gtv.png" group-title="INDONESIA",LOKAL - [0009] GTV (R+)
-https://gtv-cutv.rctiplus.id/gtv-sdi.m3u8
+https://d2mkaa2jqouws9.cloudfront.net/index_10.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=036e85de0bb448eeb21d39ab300da48e:4c6f9b15dfab2a169b2b78a498c4d77d
@@ -1230,6 +1230,7 @@ https://d3b0v7fggu5zwm.cloudfront.net/out/v1/77641c37b4834a9db823ec5137774973/in
 https://d84q7nw4qf3j3.cloudfront.net/out/v1/980cfe26ff00479c97eb8057a1129c7f/index.mpd
 
 #EXTM3U billed-msg="Selamat datang di Playlist By Abidin"
+
 
 
 
