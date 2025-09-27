@@ -164,8 +164,8 @@ https://op-group1-swiftservehd-1.dens.tv/h/h10/01.m3u8
 #EXTINF:-1 group-title="INDONESIA" tvg-logo="https://raw.githubusercontent.com/hajiabidin/Coba/refs/heads/main/gmb/tv/iNews.png",LOKAL - [0026] iNews (V+)
 https://d2tjypxxy769fn.cloudfront.net/out/v1/7b0404cd6a8a4a908123f10774854e46/index.mpd
 
-#EXTINF:-1 group-title="INDONESIA" tvg-logo="https://raw.githubusercontent.com/hajiabidin/Coba/refs/heads/main/gmb/tv/iNews.png" group-title="INDONESIA",LOKAL - [0027] INEWS R+
-https://inews-cutv.rctiplus.id/inews-sdi.m3u8
+#EXTINF:-1 group-title="INDONESIA" tvg-logo="https://raw.githubusercontent.com/hajiabidin/Coba/refs/heads/main/gmb/tv/iNews.png" group-title="INDONESIA",LOKAL - [0027] INEWS (yt)
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1758970100/ei/lGzXaNXcAdOUvcAPrNKOqAc/ip/180.253.183.26/id/po0PvF8jt6M.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/maxh/4320/playlist_duration/30/manifest_duration/30/maudio/1/ss/1/ssa/1/siu/1/bui/ATw7iSV2xvj5yU97wHe3j0XxK32nu12m9DwkgRM79ZNNH1-GgIBno3rHbePA7QOoZb45SibGGA/spc/hcYD5V_fVOS3TIrYF3rETd1tnqvxHo7648OzC6zbHqUQEOr1ZXOOydULa23nnID6ZV4/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51355912%2C51552689%2C51565115%2C51565681%2C51580968%2C51593650/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cmaxh%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Css%2Cssa%2Csiu%2Cbui%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRAIgfVPb6XSdVS7DF605gtyQia6br_kS3qAkauUcZtM1lEECIHD2I_xkioukBhvWAu53B4v3jCLY66yarsCniyTH5ysd/file/index.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
@@ -1230,6 +1230,7 @@ https://d3b0v7fggu5zwm.cloudfront.net/out/v1/77641c37b4834a9db823ec5137774973/in
 https://d84q7nw4qf3j3.cloudfront.net/out/v1/980cfe26ff00479c97eb8057a1129c7f/index.mpd
 
 #EXTM3U billed-msg="Selamat datang di Playlist By Abidin"
+
 
 
 
