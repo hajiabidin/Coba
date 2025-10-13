@@ -165,7 +165,7 @@ https://op-group1-swiftservehd-1.dens.tv/h/h10/01.m3u8
 https://d2tjypxxy769fn.cloudfront.net/out/v1/7b0404cd6a8a4a908123f10774854e46/index.mpd
 
 #EXTINF:-1 group-title="INDONESIA" tvg-logo="https://raw.githubusercontent.com/hajiabidin/Coba/refs/heads/main/gmb/tv/iNews.png" group-title="INDONESIA",LOKAL - [0027] INEWS (yt)
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1758970100/ei/lGzXaNXcAdOUvcAPrNKOqAc/ip/180.253.183.26/id/po0PvF8jt6M.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/maxh/4320/playlist_duration/30/manifest_duration/30/maudio/1/ss/1/ssa/1/siu/1/bui/ATw7iSV2xvj5yU97wHe3j0XxK32nu12m9DwkgRM79ZNNH1-GgIBno3rHbePA7QOoZb45SibGGA/spc/hcYD5V_fVOS3TIrYF3rETd1tnqvxHo7648OzC6zbHqUQEOr1ZXOOydULa23nnID6ZV4/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51355912%2C51552689%2C51565115%2C51565681%2C51580968%2C51593650/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cmaxh%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Css%2Cssa%2Csiu%2Cbui%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRAIgfVPb6XSdVS7DF605gtyQia6br_kS3qAkauUcZtM1lEECIHD2I_xkioukBhvWAu53B4v3jCLY66yarsCniyTH5ysd/file/index.m3u8
+#https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1758970100/ei/lGzXaNXcAdOUvcAPrNKOqAc/ip/180.253.183.26/id/po0PvF8jt6M.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/maxh/4320/playlist_duration/30/manifest_duration/30/maudio/1/ss/1/ssa/1/siu/1/bui/ATw7iSV2xvj5yU97wHe3j0XxK32nu12m9DwkgRM79ZNNH1-GgIBno3rHbePA7QOoZb45SibGGA/spc/hcYD5V_fVOS3TIrYF3rETd1tnqvxHo7648OzC6zbHqUQEOr1ZXOOydULa23nnID6ZV4/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51355912%2C51552689%2C51565115%2C51565681%2C51580968%2C51593650/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cmaxh%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Css%2Cssa%2Csiu%2Cbui%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRAIgfVPb6XSdVS7DF605gtyQia6br_kS3qAkauUcZtM1lEECIHD2I_xkioukBhvWAu53B4v3jCLY66yarsCniyTH5ysd/file/index.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
@@ -2793,96 +2793,88 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/MTVLiveHD/mpd/MTVLiveHD.mpd
 
 
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="WARKOP DKI" tvg-logo="https://s1.dmcdn.net/v/VIowq1eLgMP8px-yW/x180",WARKOP DKI - Salah Masuk (1993)
-https://vod3.cf.dmcdn.net/sec2(ZmDo4T4GktMI3gW5Vb3WUcxNvJfMx0fEz0OosK8tHRtsuy_wSIsK3draponLPHydWZ--yXN0d2RTFwHwYTssBIOKF01mk9bPaujTb3BIgwx9_ZZmKQTekEs3CneiKW8icHz2ky2Dwpy5OhaskEp_abn1SKu7J9yqdLK023cuu6I)/video/258/020/525020852_mp4_h264_aac_5.m3u8
+@https://vod3.cf.dmcdn.net/sec2(ZmDo4T4GktMI3gW5Vb3WUcxNvJfMx0fEz0OosK8tHRtsuy_wSIsK3draponLPHydWZ--yXN0d2RTFwHwYTssBIOKF01mk9bPaujTb3BIgwx9_ZZmKQTekEs3CneiKW8icHz2ky2Dwpy5OhaskEp_abn1SKu7J9yqdLK023cuu6I)/video/258/020/525020852_mp4_h264_aac_5.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="WARKOP DKI" tvg-logo="https://s1.dmcdn.net/v/WwYyO1eo-qSUE0BWz/x120",WARKOP DKI - Malu Malu Mau (1988)
 https://vod3.cf.dmcdn.net/sec2(k90yPEw-e-ZqyZn11FKVrLOrPeMh2vl2uqUB2KjG-UB4Fc_n7MAgyBdsUmg9B178frTM1XjNrDv2oKlyUBRNoWmyp2Of7oKwcTYbJ0wFYTIdLIQOS_6s70fbx6WhhNat-Kwx8J9SMEe_WYEyVk9G_NmlK8QyLhFM4bbwSnDmcp8)/video/774/120/525021477_mp4_h264_aac_2.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="WARKOP DKI" tvg-logo="https://s1.dmcdn.net/v/VIDMY1ep8rPYD5wVy/x240",bebas aturan main - warkop DKI
-https://vod3.cf.dmcdn.net/sec2(tZ4sgUQTr7f0TCE1ld2wgKSKYsT_flwwsH2qUzc1kSGn4CgQoJJsuTtoS02Tnwf4gLjxRCXbuPjE60s6zl6kslk7e20wGWaK7MGv_8PZDhb4C5xKJnpxJOtDYhj_I3amkN-tsTvc8dartuUbYGlpmDyCarILaxBcF5CAwIRi400)/video/879/668/524866978_mp4_h264_aac_3.m3u8
+@https://vod3.cf.dmcdn.net/sec2(tZ4sgUQTr7f0TCE1ld2wgKSKYsT_flwwsH2qUzc1kSGn4CgQoJJsuTtoS02Tnwf4gLjxRCXbuPjE60s6zl6kslk7e20wGWaK7MGv_8PZDhb4C5xKJnpxJOtDYhj_I3amkN-tsTvc8dartuUbYGlpmDyCarILaxBcF5CAwIRi400)/video/879/668/524866978_mp4_h264_aac_3.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="WARKOP DKI" tvg-logo="https://s1.dmcdn.net/v/VIp2u1eowDFRfBSjk/x240",WARKOP DIKI - Mana Bisa Tahan (1990)
-https://vod3.cf.dmcdn.net/sec2(GzmGo23Pt3nBNCsCBe9xGcKRmoAbLYsZU5gqpOGxr7y197H1kv70xubWPzsuLMVUAg8JqNUZ9WBfSQY3aAQenb1J9J13BZZn62vcwaKaExfyygDJr9L-kjmELNElkYLZkTeD2kltn9JN9sJVtwikttvuqh0JJ5zzf1qXlfgVDEwJ-xW_jAxXfM-pedHUM4_d)/video/558/351/529153855_mp4_h264_aac_hd_6.m3u8
+@https://vod3.cf.dmcdn.net/sec2(GzmGo23Pt3nBNCsCBe9xGcKRmoAbLYsZU5gqpOGxr7y197H1kv70xubWPzsuLMVUAg8JqNUZ9WBfSQY3aAQenb1J9J13BZZn62vcwaKaExfyygDJr9L-kjmELNElkYLZkTeD2kltn9JN9sJVtwikttvuqh0JJ5zzf1qXlfgVDEwJ-xW_jAxXfM-pedHUM4_d)/video/558/351/529153855_mp4_h264_aac_hd_6.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="WARKOP DKI" tvg-logo="https://s2.dmcdn.net/v/VJQGf1eotph0oSOPS/x240",WARKOP DKI - Itu Bisa Diatur (1984)
-https://vod3.cf.dmcdn.net/sec2(lIVswFqCGKQ_fDXnJyXdgbwUjKpHoPX_u0V-zYK76i6hRYtr4jDUXX9dQHpBUE0FLr0CHrawpjI6XaBnxEKB1K2RKo3KnnLTuA44Qq4P3Bo4156JY0jS1HEPYvbxkvR6bZVny0EtXeXvjnbXbvPal6SacFvugao0m58BPrmaAhHhYf777zJClgFX45j7otiu)/video/399/181/525181993_mp4_h264_aac_hq_4.m3u8
+@https://vod3.cf.dmcdn.net/sec2(lIVswFqCGKQ_fDXnJyXdgbwUjKpHoPX_u0V-zYK76i6hRYtr4jDUXX9dQHpBUE0FLr0CHrawpjI6XaBnxEKB1K2RKo3KnnLTuA44Qq4P3Bo4156JY0jS1HEPYvbxkvR6bZVny0EtXeXvjnbXbvPal6SacFvugao0m58BPrmaAhHhYf777zJClgFX45j7otiu)/video/399/181/525181993_mp4_h264_aac_hq_4.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="WARKOP DKI" tvg-logo="https://s1.dmcdn.net/v/VJbRu1eorviBsyudp/x240"WARKOP DKI - GANTIAN DONG (1985)
-https://vod3.cf.dmcdn.net/sec2(r2PgppQIy4_ruqjDW5Wd27zbTMfAeZvApXN0H8Tkn7Vs5AYl_1CkSW1FbbQ3RZPtskvQSa1s_XPWzgqfk3edSeg5D271ddE5heXjL7ZoHmPnbK8d9i_bWguXsKKvP8ZI-cgWJZDWftl6bVN_SkDuZnQTOPhwo83X0ODk0Ye_KTBOMr_H0DH4S6bUY453ho1z)/video/867/722/525227768_mp4_h264_aac_hq_3.m3u8
+@https://vod3.cf.dmcdn.net/sec2(r2PgppQIy4_ruqjDW5Wd27zbTMfAeZvApXN0H8Tkn7Vs5AYl_1CkSW1FbbQ3RZPtskvQSa1s_XPWzgqfk3edSeg5D271ddE5heXjL7ZoHmPnbK8d9i_bWguXsKKvP8ZI-cgWJZDWftl6bVN_SkDuZnQTOPhwo83X0ODk0Ye_KTBOMr_H0DH4S6bUY453ho1z)/video/867/722/525227768_mp4_h264_aac_hq_3.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="WARKOP DKI" tvg-logo="https://s2.dmcdn.net/v/VMMEB1epBNC5o6agI/x240",WARKOP DKI - DONGKRAK ANTIK (1982)
-https://vod3.cf.dmcdn.net/sec2(NzFqbKd7yaZATcyZHEZMh6_kMXEo9_zoatelpFa5yZ9ZsCmatUA-ExQrIC_j6GaE6JeVDx7HMQXk6sMgxyO01yiuIVupY_vRiozHB0T1BXofa3hgauImC7Z1jDLVuKV6PcVPW85vlIsac97RQcPjiEDlhmzby1ba9GMIDntUxAIqB0KFbcswQVNyog6fYpeG)/video/388/159/525951883_mp4_h264_aac_hq_5.m3u8
+@https://vod3.cf.dmcdn.net/sec2(NzFqbKd7yaZATcyZHEZMh6_kMXEo9_zoatelpFa5yZ9ZsCmatUA-ExQrIC_j6GaE6JeVDx7HMQXk6sMgxyO01yiuIVupY_vRiozHB0T1BXofa3hgauImC7Z1jDLVuKV6PcVPW85vlIsac97RQcPjiEDlhmzby1ba9GMIDntUxAIqB0KFbcswQVNyog6fYpeG)/video/388/159/525951883_mp4_h264_aac_hq_5.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="WARKOP DKI" tvg-logo="https://s1.dmcdn.net/v/XzC-M1dmll-nkWe41/x240",WARKOP DKI MAJU KENA MUNDUR KENA 1983
-https://vod3.cf.dmcdn.net/sec2(10aA0Mb0QqCSCThdHafSdqwaxA3hkakKdcFixixGAJLjTSyvNAcbIKZVmLRwnYFNhl849DZEBQua-6d4DGGkuNQ_FP_Kd42tFgEY8W1is-tiiYPz90PWK4rk3yzDiPtYP-D2Uog9klofyBEtl6BSxvyHLqrdUoSiXNPrFrVZFQTq03wQZPF_K77GpOjBqipP)/video/257/399/528993752_mp4_h264_aac_hd_7.m3u8
+@https://vod3.cf.dmcdn.net/sec2(10aA0Mb0QqCSCThdHafSdqwaxA3hkakKdcFixixGAJLjTSyvNAcbIKZVmLRwnYFNhl849DZEBQua-6d4DGGkuNQ_FP_Kd42tFgEY8W1is-tiiYPz90PWK4rk3yzDiPtYP-D2Uog9klofyBEtl6BSxvyHLqrdUoSiXNPrFrVZFQTq03wQZPF_K77GpOjBqipP)/video/257/399/528993752_mp4_h264_aac_hd_7.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="WARKOP DKI" tvg-logo="https://s1.dmcdn.net/v/Y0BgU1dojFfNP2gHl/x240",WARKOP DKI PINTAR PINTAR B0D0H 1980
-https://vod3.cf.dmcdn.net/sec2(ZrJ5eaFKetp6VzHqntPJyZsf-1YeSBA4rmHPBLDp6ApuPQT7y0w1CeRoXEFpuv7Squ1UXJUK13tuyYm8VFQ3ovDfUvg8lInyWvMzeUfB_o2kFLJzEMQ-PMuF3rXX02GgNHjVV8w2Or2PzFDCtvlhL5lu95dq8u9YpKgdk3IBMxoO1XMGqOS5a1ZgonR7ieRV)/video/450/296/569692054_mp4_h264_aac_hd_2.m3u8
+@https://vod3.cf.dmcdn.net/sec2(ZrJ5eaFKetp6VzHqntPJyZsf-1YeSBA4rmHPBLDp6ApuPQT7y0w1CeRoXEFpuv7Squ1UXJUK13tuyYm8VFQ3ovDfUvg8lInyWvMzeUfB_o2kFLJzEMQ-PMuF3rXX02GgNHjVV8w2Or2PzFDCtvlhL5lu95dq8u9YpKgdk3IBMxoO1XMGqOS5a1ZgonR7ieRV)/video/450/296/569692054_mp4_h264_aac_hd_2.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="WARKOP DKI" tvg-logo="https://s1.dmcdn.net/v/Y0_DU1dpCr5j233DA/x240",WARKOP DKI TAHU DIRI DONG 1984
-https://vod3.cf.dmcdn.net/sec2(ZrJ5eaFKetp6VzHqntPJyZsf-1YeSBA4rmHPBLDp6ApuPQT7y0w1CeRoXEFpuv7Squ1UXJUK13tuyYm8VFQ3ovDfUvg8lInyWvMzeUfB_o2kFLJzEMQ-PMuF3rXX02GgNHjVV8w2Or2PzFDCtvlhL5lu95dq8u9YpKgdk3IBMxoO1XMGqOS5a1ZgonR7ieRV)/video/450/296/569692054_mp4_h264_aac_hd_2.m3u8
+@https://vod3.cf.dmcdn.net/sec2(ZrJ5eaFKetp6VzHqntPJyZsf-1YeSBA4rmHPBLDp6ApuPQT7y0w1CeRoXEFpuv7Squ1UXJUK13tuyYm8VFQ3ovDfUvg8lInyWvMzeUfB_o2kFLJzEMQ-PMuF3rXX02GgNHjVV8w2Or2PzFDCtvlhL5lu95dq8u9YpKgdk3IBMxoO1XMGqOS5a1ZgonR7ieRV)/video/450/296/569692054_mp4_h264_aac_hd_2.m3u8
 
 
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="WARKOP DKI" tvg-logo="https://s2.dmcdn.net/v/VK-4b1dQMuSnzjTGB/x240",Godain kita dong
-https://vod3.cf.dmcdn.net/sec2(GzmGo23Pt3nBNCsCBe9xGcKRmoAbLYsZU5gqpOGxr7y197H1kv70xubWPzsuLMVUAg8JqNUZ9WBfSQY3aAQenb1J9J13BZZn62vcwaKaExfyygDJr9L-kjmELNElkYLZkTeD2kltn9JN9sJVtwikttvuqh0JJ5zzf1qXlfgVDEwJ-xW_jAxXfM-pedHUM4_d)/video/558/351/529153855_mp4_h264_aac_hd_6.m3u8
+#https://vod3.cf.dmcdn.net/sec2(GzmGo23Pt3nBNCsCBe9xGcKRmoAbLYsZU5gqpOGxr7y197H1kv70xubWPzsuLMVUAg8JqNUZ9WBfSQY3aAQenb1J9J13BZZn62vcwaKaExfyygDJr9L-kjmELNElkYLZkTeD2kltn9JN9sJVtwikttvuqh0JJ5zzf1qXlfgVDEwJ-xW_jAxXfM-pedHUM4_d)/video/558/351/529153855_mp4_h264_aac_hd_6.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="WARKOP DKI" tvg-logo="https://s2.dmcdn.net/v/VQsmV1dQMuQ5FKZPG/x240",Ge Er | warkop dki
-https://vod3.cf.dmcdn.net/sec2(GzmGo23Pt3nBNCsCBe9xGcKRmoAbLYsZU5gqpOGxr7y197H1kv70xubWPzsuLMVUAg8JqNUZ9WBfSQY3aAQenb1J9J13BZZn62vcwaKaExfyygDJr9L-kjmELNElkYLZkTeD2kltn9JN9sJVtwikttvuqh0JJ5zzf1qXlfgVDEwJ-xW_jAxXfM-pedHUM4_d)/video/558/351/529153855_mp4_h264_aac_hd_6.m3u8
+#https://vod3.cf.dmcdn.net/sec2(GzmGo23Pt3nBNCsCBe9xGcKRmoAbLYsZU5gqpOGxr7y197H1kv70xubWPzsuLMVUAg8JqNUZ9WBfSQY3aAQenb1J9J13BZZn62vcwaKaExfyygDJr9L-kjmELNElkYLZkTeD2kltn9JN9sJVtwikttvuqh0JJ5zzf1qXlfgVDEwJ-xW_jAxXfM-pedHUM4_d)/video/558/351/529153855_mp4_h264_aac_hd_6.m3u8
 
 ------------------------ DOYOK & KADIR ---------------------
 
 
 
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="DOYOK & KADIR" tvg-logo="https://s2.dmcdn.net/v/VYYf91eo_zai1z-H1/x240",Boleh Dong Untung Terus (1992) HD
-https://vod3.cf.dmcdn.net/sec2(NtpojATUtG8g8lH8jpMGzB2gkKWMZmyby43_BTxaUXaV-z8w9JfCbnBATN41TA4IfH6FL-SKMskHAjkzTsl-VK3Zn0uasL6b-3h9TjaX6OeXnmfZMtIpv4bAmD0LzBI64szPAT7gXFVWKzK74XVZjGreQy4bLl4G4OdMAgOBYRoHCqm4tzEh9T2Unxr6nk2q)/video/984/841/529148489_mp4_h264_aac_fhd_8.m3u8
+#https://vod3.cf.dmcdn.net/sec2(NtpojATUtG8g8lH8jpMGzB2gkKWMZmyby43_BTxaUXaV-z8w9JfCbnBATN41TA4IfH6FL-SKMskHAjkzTsl-VK3Zn0uasL6b-3h9TjaX6OeXnmfZMtIpv4bAmD0LzBI64szPAT7gXFVWKzK74XVZjGreQy4bLl4G4OdMAgOBYRoHCqm4tzEh9T2Unxr6nk2q)/video/984/841/529148489_mp4_h264_aac_fhd_8.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="DOYOK & KADIR" tvg-logo="https://s2.dmcdn.net/v/VYYf91eo_zai1z-H1/x240",Boleh Dong Untung Terus (1992) SD
-https://vod3.cf.dmcdn.net/sec2(EPKlogfopoqdAuM4-qjxTxkT5qnjLgUxIYe9KlLL9eeir2Be0K9b_T9k-2vPCN-ln4AgRnqbQIPG3myJUxjYqC0sgDJd_NtIA5TFiYQzQEKDd-8uR4LQM-u78fDCOg3f0quShQ5bZz4k1Z77sJQjUI_DXkbkkQmsMUP2Y5JVPqQIgEnYLF_W42RmiZAtWoEm)/video/984/841/529148489_mp4_h264_aac_hq_8.m3u8
+#https://vod3.cf.dmcdn.net/sec2(EPKlogfopoqdAuM4-qjxTxkT5qnjLgUxIYe9KlLL9eeir2Be0K9b_T9k-2vPCN-ln4AgRnqbQIPG3myJUxjYqC0sgDJd_NtIA5TFiYQzQEKDd-8uR4LQM-u78fDCOg3f0quShQ5bZz4k1Z77sJQjUI_DXkbkkQmsMUP2Y5JVPqQIgEnYLF_W42RmiZAtWoEm)/video/984/841/529148489_mp4_h264_aac_hq_8.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="DOYOK & KADIR" tvg-logo="https://s2.dmcdn.net/v/VYZy_1enQoHKWjwDk/x240",Tahu Beres (1993) HD
-https://vod3.cf.dmcdn.net/sec2(GzmGo23Pt3nBNCsCBe9xGcKRmoAbLYsZU5gqpOGxr7y197H1kv70xubWPzsuLMVUAg8JqNUZ9WBfSQY3aAQenb1J9J13BZZn62vcwaKaExfyygDJr9L-kjmELNElkYLZkTeD2kltn9JN9sJVtwikttvuqh0JJ5zzf1qXlfgVDEwJ-xW_jAxXfM-pedHUM4_d)/video/558/351/529153855_mp4_h264_aac_hd_6.m3u8
+#https://vod3.cf.dmcdn.net/sec2(GzmGo23Pt3nBNCsCBe9xGcKRmoAbLYsZU5gqpOGxr7y197H1kv70xubWPzsuLMVUAg8JqNUZ9WBfSQY3aAQenb1J9J13BZZn62vcwaKaExfyygDJr9L-kjmELNElkYLZkTeD2kltn9JN9sJVtwikttvuqh0JJ5zzf1qXlfgVDEwJ-xW_jAxXfM-pedHUM4_d)/video/558/351/529153855_mp4_h264_aac_hd_6.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="DOYOK & KADIR" tvg-logo="https://s2.dmcdn.net/v/VYZy_1enQoHKWjwDk/x240",Tahu Beres (1993) SD
-https://vod3.cf.dmcdn.net/sec2(6VGxPzenTM7PUeGkAnzsjFEwJNz0Aki-zwUCFmOh9BYfhzz0sQMGc_74BzA4B5YEw2XZ98HkOmnfhXBmyPnZOfWzhsc517MOvjZl0DpunJSBOa20YPc_kXLn5Q0ab-YdHplO3hjsimgw2xVzv8qe8WdnHhTqqyqZbZk1PgTOr7ADr2EgoEAgl-lBPA5Fi8kv)/video/558/351/529153855_mp4_h264_aac_hq_6.m3u8
+#https://vod3.cf.dmcdn.net/sec2(6VGxPzenTM7PUeGkAnzsjFEwJNz0Aki-zwUCFmOh9BYfhzz0sQMGc_74BzA4B5YEw2XZ98HkOmnfhXBmyPnZOfWzhsc517MOvjZl0DpunJSBOa20YPc_kXLn5Q0ab-YdHplO3hjsimgw2xVzv8qe8WdnHhTqqyqZbZk1PgTOr7ADr2EgoEAgl-lBPA5Fi8kv)/video/558/351/529153855_mp4_h264_aac_hq_6.m3u8
 
 
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="DOYOK & KADIR" tvg-logo="https://s1.dmcdn.net/v/Y98f41dwSVLXUXtKx/x240",Kadir Doyok - Mumpung Ada Kesempatan ( 1993 ) HD
-https://vod3.cf.dmcdn.net/sec2(GzmGo23Pt3nBNCsCBe9xGcKRmoAbLYsZU5gqpOGxr7y197H1kv70xubWPzsuLMVUAg8JqNUZ9WBfSQY3aAQenb1J9J13BZZn62vcwaKaExfyygDJr9L-kjmELNElkYLZkTeD2kltn9JN9sJVtwikttvuqh0JJ5zzf1qXlfgVDEwJ-xW_jAxXfM-pedHUM4_d)/video/558/351/529153855_mp4_h264_aac_hd_6.m3u8
+#https://vod3.cf.dmcdn.net/sec2(GzmGo23Pt3nBNCsCBe9xGcKRmoAbLYsZU5gqpOGxr7y197H1kv70xubWPzsuLMVUAg8JqNUZ9WBfSQY3aAQenb1J9J13BZZn62vcwaKaExfyygDJr9L-kjmELNElkYLZkTeD2kltn9JN9sJVtwikttvuqh0JJ5zzf1qXlfgVDEwJ-xW_jAxXfM-pedHUM4_d)/video/558/351/529153855_mp4_h264_aac_hd_6.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="DOYOK & KADIR" tvg-logo="https://s1.dmcdn.net/v/Y98f41dwSVLXUXtKx/x240",Kadir Doyok - Mumpung Ada Kesempatan ( 1993 ) SD
-https://vod3.cf.dmcdn.net/sec2(6VGxPzenTM7PUeGkAnzsjFEwJNz0Aki-zwUCFmOh9BYfhzz0sQMGc_74BzA4B5YEw2XZ98HkOmnfhXBmyPnZOfWzhsc517MOvjZl0DpunJSBOa20YPc_kXLn5Q0ab-YdHplO3hjsimgw2xVzv8qe8WdnHhTqqyqZbZk1PgTOr7ADr2EgoEAgl-lBPA5Fi8kv)/video/558/351/529153855_mp4_h264_aac_hq_6.m3u8
+#https://vod3.cf.dmcdn.net/sec2(6VGxPzenTM7PUeGkAnzsjFEwJNz0Aki-zwUCFmOh9BYfhzz0sQMGc_74BzA4B5YEw2XZ98HkOmnfhXBmyPnZOfWzhsc517MOvjZl0DpunJSBOa20YPc_kXLn5Q0ab-YdHplO3hjsimgw2xVzv8qe8WdnHhTqqyqZbZk1PgTOr7ADr2EgoEAgl-lBPA5Fi8kv)/video/558/351/529153855_mp4_h264_aac_hq_6.m3u8
 
 
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="DOYOK & KADIR" tvg-logo="https://s1.dmcdn.net/v/WhaCY1dVXvL6oMOji/x240",AKAL-AKALAN (KADIR & DOYOK) (1991) HD
-https://vod3.cf.dmcdn.net/sec2(GzmGo23Pt3nBNCsCBe9xGcKRmoAbLYsZU5gqpOGxr7y197H1kv70xubWPzsuLMVUAg8JqNUZ9WBfSQY3aAQenb1J9J13BZZn62vcwaKaExfyygDJr9L-kjmELNElkYLZkTeD2kltn9JN9sJVtwikttvuqh0JJ5zzf1qXlfgVDEwJ-xW_jAxXfM-pedHUM4_d)/video/558/351/529153855_mp4_h264_aac_hd_6.m3u8
+#https://vod3.cf.dmcdn.net/sec2(GzmGo23Pt3nBNCsCBe9xGcKRmoAbLYsZU5gqpOGxr7y197H1kv70xubWPzsuLMVUAg8JqNUZ9WBfSQY3aAQenb1J9J13BZZn62vcwaKaExfyygDJr9L-kjmELNElkYLZkTeD2kltn9JN9sJVtwikttvuqh0JJ5zzf1qXlfgVDEwJ-xW_jAxXfM-pedHUM4_d)/video/558/351/529153855_mp4_h264_aac_hd_6.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="DOYOK & KADIR" tvg-logo="https://s1.dmcdn.net/v/WhaCY1dVXvL6oMOji/x240",AKAL-AKALAN (KADIR & DOYOK) (1991) SD
-https://vod3.cf.dmcdn.net/sec2(6VGxPzenTM7PUeGkAnzsjFEwJNz0Aki-zwUCFmOh9BYfhzz0sQMGc_74BzA4B5YEw2XZ98HkOmnfhXBmyPnZOfWzhsc517MOvjZl0DpunJSBOa20YPc_kXLn5Q0ab-YdHplO3hjsimgw2xVzv8qe8WdnHhTqqyqZbZk1PgTOr7ADr2EgoEAgl-lBPA5Fi8kv)/video/558/351/529153855_mp4_h264_aac_hq_6.m3u8
+#https://vod3.cf.dmcdn.net/sec2(6VGxPzenTM7PUeGkAnzsjFEwJNz0Aki-zwUCFmOh9BYfhzz0sQMGc_74BzA4B5YEw2XZ98HkOmnfhXBmyPnZOfWzhsc517MOvjZl0DpunJSBOa20YPc_kXLn5Q0ab-YdHplO3hjsimgw2xVzv8qe8WdnHhTqqyqZbZk1PgTOr7ADr2EgoEAgl-lBPA5Fi8kv)/video/558/351/529153855_mp4_h264_aac_hq_6.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="DOYOK & KADIR" tvg-logo="https://s1.dmcdn.net/v/YndOs1eVsXXXPNLHz/x240",Ikut-Ikutan-Doyok-Kadir-1990 HD
-https://vod3.cf.dmcdn.net/sec2(GzmGo23Pt3nBNCsCBe9xGcKRmoAbLYsZU5gqpOGxr7y197H1kv70xubWPzsuLMVUAg8JqNUZ9WBfSQY3aAQenb1J9J13BZZn62vcwaKaExfyygDJr9L-kjmELNElkYLZkTeD2kltn9JN9sJVtwikttvuqh0JJ5zzf1qXlfgVDEwJ-xW_jAxXfM-pedHUM4_d)/video/558/351/529153855_mp4_h264_aac_hd_6.m3u8
+#https://vod3.cf.dmcdn.net/sec2(GzmGo23Pt3nBNCsCBe9xGcKRmoAbLYsZU5gqpOGxr7y197H1kv70xubWPzsuLMVUAg8JqNUZ9WBfSQY3aAQenb1J9J13BZZn62vcwaKaExfyygDJr9L-kjmELNElkYLZkTeD2kltn9JN9sJVtwikttvuqh0JJ5zzf1qXlfgVDEwJ-xW_jAxXfM-pedHUM4_d)/video/558/351/529153855_mp4_h264_aac_hd_6.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="DOYOK & KADIR" tvg-logo="https://s1.dmcdn.net/v/YndOs1eVsXXXPNLHz/x240",Ikut-Ikutan-Doyok-Kadir-1990 SD
-https://vod3.cf.dmcdn.net/sec2(6VGxPzenTM7PUeGkAnzsjFEwJNz0Aki-zwUCFmOh9BYfhzz0sQMGc_74BzA4B5YEw2XZ98HkOmnfhXBmyPnZOfWzhsc517MOvjZl0DpunJSBOa20YPc_kXLn5Q0ab-YdHplO3hjsimgw2xVzv8qe8WdnHhTqqyqZbZk1PgTOr7ADr2EgoEAgl-lBPA5Fi8kv)/video/558/351/529153855_mp4_h264_aac_hq_6.m3u8
+#https://vod3.cf.dmcdn.net/sec2(6VGxPzenTM7PUeGkAnzsjFEwJNz0Aki-zwUCFmOh9BYfhzz0sQMGc_74BzA4B5YEw2XZ98HkOmnfhXBmyPnZOfWzhsc517MOvjZl0DpunJSBOa20YPc_kXLn5Q0ab-YdHplO3hjsimgw2xVzv8qe8WdnHhTqqyqZbZk1PgTOr7ADr2EgoEAgl-lBPA5Fi8kv)/video/558/351/529153855_mp4_h264_aac_hq_6.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="DOYOK & KADIR" tvg-logo="https://s1.dmcdn.net/v/VLj3y1bDbvnH8CebJ/x240",KANAN KIRI OK (1989) HD
-https://vod3.cf.dmcdn.net/sec2(GzmGo23Pt3nBNCsCBe9xGcKRmoAbLYsZU5gqpOGxr7y197H1kv70xubWPzsuLMVUAg8JqNUZ9WBfSQY3aAQenb1J9J13BZZn62vcwaKaExfyygDJr9L-kjmELNElkYLZkTeD2kltn9JN9sJVtwikttvuqh0JJ5zzf1qXlfgVDEwJ-xW_jAxXfM-pedHUM4_d)/video/558/351/529153855_mp4_h264_aac_hd_6.m3u8
+#https://vod3.cf.dmcdn.net/sec2(GzmGo23Pt3nBNCsCBe9xGcKRmoAbLYsZU5gqpOGxr7y197H1kv70xubWPzsuLMVUAg8JqNUZ9WBfSQY3aAQenb1J9J13BZZn62vcwaKaExfyygDJr9L-kjmELNElkYLZkTeD2kltn9JN9sJVtwikttvuqh0JJ5zzf1qXlfgVDEwJ-xW_jAxXfM-pedHUM4_d)/video/558/351/529153855_mp4_h264_aac_hd_6.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="DOYOK & KADIR" tvg-logo="https://s1.dmcdn.net/v/VLj3y1bDbvnH8CebJ/x240",KANAN KIRI OK (1989) SD
-https://vod3.cf.dmcdn.net/sec2(6VGxPzenTM7PUeGkAnzsjFEwJNz0Aki-zwUCFmOh9BYfhzz0sQMGc_74BzA4B5YEw2XZ98HkOmnfhXBmyPnZOfWzhsc517MOvjZl0DpunJSBOa20YPc_kXLn5Q0ab-YdHplO3hjsimgw2xVzv8qe8WdnHhTqqyqZbZk1PgTOr7ADr2EgoEAgl-lBPA5Fi8kv)/video/558/351/529153855_mp4_h264_aac_hq_6.m3u8
+#https://vod3.cf.dmcdn.net/sec2(6VGxPzenTM7PUeGkAnzsjFEwJNz0Aki-zwUCFmOh9BYfhzz0sQMGc_74BzA4B5YEw2XZ98HkOmnfhXBmyPnZOfWzhsc517MOvjZl0DpunJSBOa20YPc_kXLn5Q0ab-YdHplO3hjsimgw2xVzv8qe8WdnHhTqqyqZbZk1PgTOr7ADr2EgoEAgl-lBPA5Fi8kv)/video/558/351/529153855_mp4_h264_aac_hq_6.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="DOYOK & KADIR" tvg-logo="https://s2.dmcdn.net/v/Spi231WL2GMYutGsg/x240",Jangan Bilang Siapa-siapa (1990) HD PART1
-https://vod3.cf.dmcdn.net/sec2(6VGxPzenTM7PUeGkAnzsjFEwJNz0Aki-zwUCFmOh9BYfhzz0sQMGc_74BzA4B5YEw2XZ98HkOmnfhXBmyPnZOfWzhsc517MOvjZl0DpunJSBOa20YPc_kXLn5Q0ab-YdHplO3hjsimgw2xVzv8qe8WdnHhTqqyqZbZk1PgTOr7ADr2EgoEAgl-lBPA5Fi8kv)/video/558/351/529153855_mp4_h264_aac_hq_6.m3u8
+#https://vod3.cf.dmcdn.net/sec2(6VGxPzenTM7PUeGkAnzsjFEwJNz0Aki-zwUCFmOh9BYfhzz0sQMGc_74BzA4B5YEw2XZ98HkOmnfhXBmyPnZOfWzhsc517MOvjZl0DpunJSBOa20YPc_kXLn5Q0ab-YdHplO3hjsimgw2xVzv8qe8WdnHhTqqyqZbZk1PgTOr7ADr2EgoEAgl-lBPA5Fi8kv)/video/558/351/529153855_mp4_h264_aac_hq_6.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="DOYOK & KADIR" tvg-logo="https://s2.dmcdn.net/v/Spi231WL2GMYutGsg/x240",Jangan Bilang Siapa-siapa (1990) HD PART2
-https://vod3.cf.dmcdn.net/sec2(6VGxPzenTM7PUeGkAnzsjFEwJNz0Aki-zwUCFmOh9BYfhzz0sQMGc_74BzA4B5YEw2XZ98HkOmnfhXBmyPnZOfWzhsc517MOvjZl0DpunJSBOa20YPc_kXLn5Q0ab-YdHplO3hjsimgw2xVzv8qe8WdnHhTqqyqZbZk1PgTOr7ADr2EgoEAgl-lBPA5Fi8kv)/video/558/351/529153855_mp4_h264_aac_hq_6.m3u8
-
-------------------------------- KIDS CHANNEL LIVE --------------
-
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="CARTOON LIVE" tvg-logo="https://s1.dmcdn.net/v/ZEFMA1evY32mwF1od/x240",Kids Channel - Cartoon Videos for Kids Live Stream
-https://live.eu-north-1b.cf.dmcdn.net/sec2(SlCv1Ubm5-3ACTO8utBKRYDF07-pw0kBVe4D8x94_T5pcVn1Gvt-DGbSTDk-oPJYiEHnvQcJoZL3Huf9LNMaYPwfCYCPs_JISEr8EjEyin5bePRdCuW6NTPsSQ3e996Y)/dm/3/x9rtsp6/s/live-720.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="CARTOON LIVE" tvg-logo="https://s1.dmcdn.net/v/YcENC1ekdcUbZOJil/x240",Kids TV Live
-https://live.eu-north-1a.cf.dmcdn.net/sec2(zr7mzO-d026hwlRo6lR6BCDZk_U6EAXsbBPISgpZ3niq3FkYWwJyqltHansfpgNjOIp9t7adbsXwg1te83Po_C3Y8a748BR9rc15Ani7gfF3Jkbl0CRvlq2FxUP51R8V)/dm/3/x9lkyq4/s/live-720.m3u8
+#https://vod3.cf.dmcdn.net/sec2(6VGxPzenTM7PUeGkAnzsjFEwJNz0Aki-zwUCFmOh9BYfhzz0sQMGc_74BzA4B5YEw2XZ98HkOmnfhXBmyPnZOfWzhsc517MOvjZl0DpunJSBOa20YPc_kXLn5Q0ab-YdHplO3hjsimgw2xVzv8qe8WdnHhTqqyqZbZk1PgTOr7ADr2EgoEAgl-lBPA5Fi8kv)/video/558/351/529153855_mp4_h264_aac_hq_6.m3u8
 
 -------------------------------- The Flash --------------------------------
 
@@ -3282,102 +3274,6 @@ https://www.googleapis.com/drive/v3/files/19BIHs4yQJp8Qonltfj_vBRoAmvzFwNSc?alt=
 
 #-------------------- WARKOP DKI --------------------#
 
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="Warkop DKI" tvg-logo="http://pictures.my.id/images/warkop.png", Ge Er (Gede Rasa) (1980) SUB INDO
-http://abf.filmbluray.id/1td6drb
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="Warkop DKI" tvg-logo="http://pictures.my.id/images/warkop.png", Gengsi Dong (1980) SUB INDO
-http://abf.filmbluray.id/pc5hdir
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="Warkop DKI" tvg-logo="http://pictures.my.id/images/warkop.png", Pintar Pintar Bodoh (1980) SUB INDO
-http://abf.filmbluray.id/u4hspqy
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="Warkop DKI" tvg-logo="http://pictures.my.id/images/warkop.png", IQ Jongkok (1981) SUB INDO
-http://abf.filmbluray.id/osrg3o1
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="Warkop DKI" tvg-logo="http://pictures.my.id/images/warkop.png", Chips (1982) SUB INDO
-http://abf.filmbluray.id/kw19hjb
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="Warkop DKI" tvg-logo="http://pictures.my.id/images/warkop.png", Maju Kena Mundur Kena (1983) SUB INDO
-http://abf.filmbluray.id/jkvjjin
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="Warkop DKI" tvg-logo="http://pictures.my.id/images/warkop.png", Pokoknya Beres (1983) SUB INDO
-http://abf.filmbluray.id/zxfzjhm
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="Warkop DKI" tvg-logo="http://pictures.my.id/images/warkop.png", Itu Bisa Diatur (1984) SUB INDO
-http://abf.filmbluray.id/do3ugxv
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="Warkop DKI" tvg-logo="http://pictures.my.id/images/warkop.png", Tahu Diri Dong (1984) SUB INDO
-http://abf.filmbluray.id/u752m23
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="Warkop DKI" tvg-logo="http://pictures.my.id/images/warkop.png", Gantian Dong (1985) SUB INDO
-http://abf.filmbluray.id/rq99s97
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="Warkop DKI" tvg-logo="http://pictures.my.id/images/warkop.png", Kesempatan Dalam Kesempitan (1985) SUB INDO
-http://abf.filmbluray.id/f7gfa43
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="Warkop DKI" tvg-logo="http://pictures.my.id/images/warkop.png", Sama Juga Bohong (1986) SUB INDO
-http://abf.filmbluray.id/7e8joq7
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="Warkop DKI" tvg-logo="http://pictures.my.id/images/warkop.png", Depan Bisa Belakang Bisa (1987) SUB INDO
-http://abf.filmbluray.id/zobm5cs
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="Warkop DKI" tvg-logo="http://pictures.my.id/images/warkop.png", Bisa Naik Bisa Turun (1991) SUB INDO
-http://abf.filmbluray.id/94cu9o0
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="Warkop DKI" tvg-logo="http://pictures.my.id/images/warkop.png", Bebas Aturan Main (1993) SUB INDO
-http://abf.filmbluray.id/qn276o5
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="Warkop DKI" tvg-logo="http://pictures.my.id/images/warkop.png", Salah Masuk (1993) SUB INDO
-http://abf.filmbluray.id/o6gedd9
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="Warkop DKI" tvg-logo="http://pictures.my.id/images/warkop.png", Pencet Sana Pencet Sini (1994) SUB INDO
-http://abf.filmbluray.id/wxvxwdc
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="Warkop DKI" tvg-logo="http://pictures.my.id/images/warkop.png", Saya Duluan Dong (1994) SUB INDO
-http://abf.filmbluray.id/w26tyv5
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="Warkop DKI" tvg-logo="http://pictures.my.id/images/dkireborn.png", Warkop DKI Reborn (2019) SUB INDO
-http://abf.filmbluray.id/zcricf6
-#EXTINF:-1 tvg-logo="https://dutamovie21.live/wp-content/uploads/2022/09/zB6uCpwsTsVT3kLNmV1TtHs7XqV.jpg" group-title="Warkop DKI",Warkop DKI DKI Reborn: Jangkrik Boss! Part 4 (2020)
-https://www.googleapis.com/drive/v3/files/1UdAXo8vkJ2KWLh_yvhmqVLjsM7jRdTSb?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-#EXTINF:-1 tvg-logo="https://dutamovie21.live/wp-content/uploads/2022/09/zB6uCpwsTsVT3kLNmV1TtHs7XqV.jpg" group-title="Warkop DKI",Warkop DKI DKI Reborn: Jangkrik Boss! Part 3 (2019)
-https://www.googleapis.com/drive/v3/files/17-oEnc4cewfvp8a0Kt63eC8fsVaEA_fl?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-#EXTINF:-1 tvg-logo="https://ngefilm21.lol/wp-content/uploads/2023/03/s8hK5qbBYo98DLSVLof4bfUdlGN.jpg" group-title="Warkop DKI",Warkop DKI DKI Reborn: Jangkrik Boss! Part 2 (2017)
-https://www.googleapis.com/drive/v3/files/1V-rl0DYkVRwRLn8NbZUSZDV94ERRbgJm?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-#EXTINF:-1 tvg-logo="https://ngefilm21.lol/wp-content/uploads/2023/03/d9JVFB2xEBI8Y68hFx0n2pYEfsY.jpg" group-title="Warkop DKI",Warkop DKI DKI Reborn: Jangkrik Boss! Part 1 (2016)
-https://www.googleapis.com/drive/v3/files/1X50_Pk5SDrfoXe_ol7RwiD5xHCScSQPS?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-#EXTINF:-1 group-title="Warkop DKI",Maju Kena Mundur Kena
-https://www.googleapis.com/drive/v3/files/1zo1qNkMBqm3WNRieHCn4jHa5TdslbMT7?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-#EXTINF:-1 tvg-logo="https://ngefilm21.lol/wp-content/uploads/2022/09/itxUbDBukZisr9BsHi7Z4HPN6RH.jpg" group-title="Warkop DKI",Makin Lama Makin Asyik
-https://www.googleapis.com/drive/v3/files/1obXuYdoEcU9-wLBq1QHKGOnWwCXErhIO?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-#EXTINF:-1 tvg-logo="https://ngefilm21.lol/wp-content/uploads/2022/09/qRDEDgm7WQQjaLgQAag962nCqid.jpg"group-title="Warkop DKI",Mana Bisa Tahan
-https://www.googleapis.com/drive/v3/files/1n9ZYDxtLdRVFEth3P_opwEb5pU8vkoGU?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-#EXTINF:-1 group-title="Warkop DKI",Masuk Kena Keluar Kena
-https://www.googleapis.com/drive/v3/files/1_8pEMpD0_4COaJJASwjNUdqtAXUyvOJA?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-#EXTINF:-1 tvg-logo="https://file.indonesianfilmcenter.com/uploads/2018-12/pencet-sana-pencet-sini.jpg" group-title="Warkop DKI",Pencet Sana Pencet Sini
-https://www.googleapis.com/drive/v3/files/1z_nqnmq7JGcAmXTIyYmeknS26CPIBlOd?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-#EXTINF:-1 tvg-logo="http://cds.bet/wp-content/uploads/2019/10/jSz6jRyPs9aCvQHlpJlXAxCbTGR-150x225.jpg" group-title="Warkop DKI",Dongkrak Antik (1982)
-https://storage.googleapis.com/c0bdaf0bc060292fb3a.appspot.com/05ad4ec7756d92921409243dcd0bbc75_1668776586.mp4?sumber=awal_storage
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="Warkop DKI" tvg-logo="http://pictures.my.id/images/warkop.png", Ge Er (Gede Rasa) (1980) SUB INDO
-http://abf.filmbluray.id/1td6drb
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="Warkop DKI" tvg-logo="http://pictures.my.id/images/warkop.png", Gengsi Dong (1980) SUB INDO
-http://abf.filmbluray.id/pc5hdir
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="Warkop DKI" tvg-logo="http://pictures.my.id/images/warkop.png", Pintar Pintar Bodoh (1980) SUB INDO
-http://abf.filmbluray.id/u4hspqy
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="Warkop DKI" tvg-logo="http://pictures.my.id/images/warkop.png", IQ Jongkok (1981) SUB INDO
-http://abf.filmbluray.id/osrg3o1
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="Warkop DKI" tvg-logo="http://pictures.my.id/images/warkop.png", Chips (1982) SUB INDO
-http://abf.filmbluray.id/kw19hjb
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="Warkop DKI" tvg-logo="http://pictures.my.id/images/warkop.png", Maju Kena Mundur Kena (1983) SUB INDO
-http://abf.filmbluray.id/jkvjjin
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="Warkop DKI" tvg-logo="http://pictures.my.id/images/warkop.png", Pokoknya Beres (1983) SUB INDO
-http://abf.filmbluray.id/zxfzjhm
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="Warkop DKI" tvg-logo="http://pictures.my.id/images/warkop.png", Itu Bisa Diatur (1984) SUB INDO
-http://abf.filmbluray.id/do3ugxv
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="Warkop DKI" tvg-logo="http://pictures.my.id/images/warkop.png", Tahu Diri Dong (1984) SUB INDO
-http://abf.filmbluray.id/u752m23
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="Warkop DKI" tvg-logo="http://pictures.my.id/images/warkop.png", Gantian Dong (1985) SUB INDO
-http://abf.filmbluray.id/rq99s97
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="Warkop DKI" tvg-logo="http://pictures.my.id/images/warkop.png", Kesempatan Dalam Kesempitan (1985) SUB INDO
-http://abf.filmbluray.id/f7gfa43
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="Warkop DKI" tvg-logo="http://pictures.my.id/images/warkop.png", Sama Juga Bohong (1986) SUB INDO
-http://abf.filmbluray.id/7e8joq7
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="Warkop DKI" tvg-logo="http://pictures.my.id/images/warkop.png", Depan Bisa Belakang Bisa (1987) SUB INDO
-http://abf.filmbluray.id/zobm5cs
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="Warkop DKI" tvg-logo="http://pictures.my.id/images/warkop.png", Bisa Naik Bisa Turun (1991) SUB INDO
-http://abf.filmbluray.id/94cu9o0
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="Warkop DKI" tvg-logo="http://pictures.my.id/images/warkop.png", Bebas Aturan Main (1993) SUB INDO
-http://abf.filmbluray.id/qn276o5
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="Warkop DKI" tvg-logo="http://pictures.my.id/images/warkop.png", Salah Masuk (1993) SUB INDO
-http://abf.filmbluray.id/o6gedd9
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="Warkop DKI" tvg-logo="http://pictures.my.id/images/warkop.png", Pencet Sana Pencet Sini (1994) SUB INDO
-http://abf.filmbluray.id/wxvxwdc
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="Warkop DKI" tvg-logo="http://pictures.my.id/images/warkop.png", Saya Duluan Dong (1994) SUB INDO
-http://abf.filmbluray.id/w26tyv5
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="Warkop DKI" tvg-logo="http://pictures.my.id/images/dkireborn.png", Warkop DKI Reborn (2019) SUB INDO
-http://abf.filmbluray.id/zcricf6
 
 #-------------------- Mr. Bean Serial --------------------#
 
@@ -3449,6 +3345,7 @@ http://abf.filmbluray.id/lxwscav
 http://abf.filmbluray.id/rczeph2
 
 #EXTM3U billed-msg="Selamat datang di Playlist By Abidin"
+
 
 
 
