@@ -3831,58 +3831,6 @@ https://lightning-now90s-samsungnz.amagi.tv/playlist.m3u8
 #########################
 
 
-#EXTINF:-1 group-title="SPORTS HD" tvg-logo="https://www.visionplus.id/images/repository/957/49957-SNAPSHOT-l.png",SPOTV 1 FHD
-https://wahyu1ptv.pages.dev/SPOTV1-HD.m3u8
-
-#EXTINF:-1 group-title="SPORTS HD" tvg-logo="https://www.visionplus.id/images/repository/960/49960-SNAPSHOT-l.png",SPOTV 2 FHD
-https://wahyu1ptv.pages.dev/SPOTV2-HD.m3u8
-
-#EXTINF: -1 tvg-logo="https://i.imgur.com/wnC7tTD.jpeg" group-title="SPORTS HD", ASTRO FOOTBALL
-https://smart.pendy.dpdns.org/Smart.php?id=go_assp4
-
-
-#EXTINF:-1 group-title="SPORTS HD" tvg-logo="https://i.postimg.cc/Jn66fSDw/images-2.jpg",Bein tk 
-#EXTVLCOPT:http-user-agent:OTT Player/1.7.3.1 (Linux;Android 14; mphvxm) ExoPlayerLib/2.15.1
-http://nettv88.xyz:8080/live/AGmelih.731/zspgyfk.19F/270945.ts
-
-#EXTINF:-1 group-title="SPORTS HD" tvg-logo="https://i.postimg.cc/Jn66fSDw/images-2.jpg",Bein tk 2
-#EXTVLCOPT:http-user-agent:OTT Player/1.7.3.1 (Linux;Android 14; mphvxm) ExoPlayerLib/2.15.1
-http://nettv88.xyz:8080/live/AGmelih.731/zspgyfk.19F/270950.ts
-
-#EXTINF:-1 group-title="SPORTS HD" tvg-logo="https://i.postimg.cc/Jn66fSDw/images-2.jpg",Bein tk 3
-#EXTVLCOPT:http-user-agent:OTT Player/1.7.3.1 (Linux;Android 14; mphvxm) ExoPlayerLib/2.15.1
-http://nettv88.xyz:8080/live/AGmelih.731/zspgyfk.19F/270954.ts
-
-#EXTINF:-1 group-title="SPORTS HD" tvg-logo="https://i.postimg.cc/Jn66fSDw/images-2.jpg",Bein tk 4
-#EXTVLCOPT:http-user-agent=OTT Player/1.7.3.1 (Linux;Android 14; mphvxm) ExoPlayerLib/2.15.1
-http://nettv88.xyz:8080/live/AGmelih.731/zspgyfk.19F/220.ts
-
-#EXTINF:-1 group-title="SPORTS HD" tvg-logo="https://i.postimg.cc/Jn66fSDw/images-2.jpg",Bein tk 5
-#EXTVLCOPT:http-user-agent=OTT Player/1.7.3.1 (Linux;Android 14; mphvxm) ExoPlayerLib/2.15.1
-http://nettv88.xyz:8080/live/AGmelih.731/zspgyfk.19F/50872.ts
-
-
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/AstroArena.png" group-title="SPORTS HD",AstroArena1
-https://wahyu1ptv.pages.dev/AstroArena-HD.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/AstroArena2.png" group-title="SPORTS HD", AstroArena2
-https://wahyu1ptv.pages.dev/AstroArena2-HD.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/AstroArenaBola.png" group-title="SPORTS HD", AstroArenaBola1
-https://wahyu1ptv.pages.dev/AstroArenaBola1-HD.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/AstroArenaBola2.png" group-title="SPORTS HD", AstroArenaBola2
-https://wahyu1ptv.pages.dev/AstroArenaBola2-HD.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/AstroSportsPlus1.png" group-title="SPORTS HD", AstroSportPlus1
-https://wahyu1ptv.pages.dev/AstroSportPlus1-HD.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/AstroBadminton.png" group-title="SPORTS HD", AstroBadminton1
-https://wahyu1ptv.pages.dev/AstroBadminton-HD.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/AstroBadminton2.png" group-title="SPORTS HD", AstroBadminton2
-https://wahyu1ptv.pages.dev/AstroBadminton2-HD.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/S1.png" group-title="SPORTS HD", SuperSport1
 https://wahyu1ptv.pages.dev/SuperSport1-HD.m3u8
@@ -3896,48 +3844,8 @@ https://wahyu1ptv.pages.dev/SuperSport3-HD.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/DaznSerieA.png" group-title="SPORTS HD",DaznSerieA
 https://wahyu1ptv.pages.dev/DaznSerieA-HD.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/DaznLaliga1.png" group-title="SPORTS HD", DaznLaliga1
-https://wahyu1ptv.pages.dev/DaznLaliga1-HD.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/DaznLaliga2.png" group-title="SPORTS HD",DaznLaliga2
-https://wahyu1ptv.pages.dev/DaznLaliga2-HD.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/SkySportMotoGP.png" group-title="SPORTS HD", SkySportMotoGP
-https://wahyu1ptv.pages.dev/SkySportMotoGP-HD.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/SkySportF1-HD.png" group-title="SPORTS HD", SkySportF1
-https://wahyu1ptv.pages.dev/SkySportF1-HD.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/Premiere-HD.png" group-title="SPORTS HD", Premiere
-https://wahyu1ptv.pages.dev/Premiere-HD.m3u8
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/SetantaSports1.png" group-title="SPORTS HD",  SetantaSports1
 https://wahyu1ptv.pages.dev/Setanta1-HD.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/SetantaSports2.png" group-title="SPORTS HD", SetantaSports2
-https://wahyu1ptv.pages.dev/Setanta2-HD.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/T1.png" group-title="SPORTS HD", TringSport1
-https://wahyu1ptv.pages.dev/Tring1-HD.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/T2.png" group-title="SPORTS HD", TringSport2
-https://wahyu1ptv.pages.dev/Tring2-HD.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/T3.png" group-title="SPORTS HD",055. TringSport3
-https://wahyu1ptv.pages.dev/Tring3-HD.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/Go3Sport.png" group-title="SPORTS HD", Go3SportOpen
-https://wahyu1ptv.pages.dev/Go3SportOpen-HD.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/Go3Sport1.png" group-title="SPORTS HD", Go3Sport1
-https://wahyu1ptv.pages.dev/Go3Sport1-HD.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/Go3Sport2.png" group-title="SPORTS HD", Go3Sport2
-https://wahyu1ptv.pages.dev/Go3Sport2-HD.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/Go3Sport3.png" group-title="SPORTS HD", Go3Sport3
-https://wahyu1ptv.pages.dev/Go3Sport3-HD.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/Match!Football1-HD.png" group-title="SPORTS HD", Match!Football1
 https://wahyu1ptv.pages.dev/Match!Football1-HD.m3u8
@@ -3975,85 +3883,17 @@ https://wahyu1ptv.pages.dev/ZiggoSport-HD.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/ZiggoSport2.png" group-title="SPORTS HD", ZiggoSportVoetbal
 https://wahyu1ptv.pages.dev/ZiggoSport2-HD.m3u8
 
-#EXTINF: -1 tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/TruePremierFootball1.png" group-title="SPORTS HD", TruePremiereFootball1
-https://wahyu1ptv.pages.dev/TruePremier1-HD.m3u8
-
-#EXTINF: -1 tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/TruePremierFootball2.png" group-title="SPORTS HD", TruePremiereFootball2
-https://wahyu1ptv.pages.dev/TruePremier2-HD.m3u8
-
-#EXTINF: -1 tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/M%2BLaliga-picsay.png" group-title="SPORTS HD", M+Laliga
-https://wahyu1ptv.pages.dev/MLaliga-HD.m3u8
-
-#EXTINF: -1 tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/Sport.TV1.png" group-title="SPORTS HD", Sport.TV1
-https://wahyu1ptv.pages.dev/Sport.TV1-HD.m3u8
-
-#EXTINF: -1 tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/Sport.TV2.png" group-title="SPORTS HD", Sport.TV2
-https://wahyu1ptv.pages.dev/Sport.TV2-HD.m3u8
-
-#EXTINF: -1 tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/Sport.TV3.png" group-title="SPORTS HD", Sport.TV3
-https://wahyu1ptv.pages.dev/Sport.TV3-HD.m3u8
-
-#EXTINF: -1 tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/Sport.TV4.png" group-title="SPORTS HD", Sport.TV4
-https://wahyu1ptv.pages.dev/Sport.TV4-HD.m3u8
-
-#EXTINF: -1 tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/Sport.TV5.png" group-title="SPORTS HD", Sport.TV5
-https://wahyu1ptv.pages.dev/Sport.TV5-HD.m3u8
-
-#EXTINF: -1 tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/Sport.TV6.png" group-title="SPORTS HD", Sport.TV6
-https://wahyu1ptv.pages.dev/Sport.TV6-HD.m3u8
-
-#EXTINF:-1 SHD  tvg-logo="https://olahragatimes.com/wp-content/uploads/2023/10/Tinju-.jpg" group-title="SPORTS HD", BOXING 1
-https://1180885077.rsc.cdn77.org/HLS/BOXINGTV.m3u8
-
-#EXTINF:-1 SHD  tvg-logo="https://olahragatimes.com/wp-content/uploads/2023/10/Tinju-.jpg" group-title="SPORTS HD", BOXING 2
+#EXTINF:-1 SHD  tvg-logo="https://olahragatimes.com/wp-content/uploads/2023/10/Tinju-.jpg" group-title="SPORTS HD", BOXING
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5417a212ff9fba68282fbf5e/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT={TARGETOPT}&deviceId={PSID}&advertisingId={PSID}&us_privacy=1YNY&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
-#EXTINF:-1 SHD  tvg-logo="https://olahragatimes.com/wp-content/uploads/2023/10/Tinju-.jpg" group-title="SPORTS HD", BOXING 3
+#EXTINF:-1 SHD  tvg-logo="https://olahragatimes.com/wp-content/uploads/2023/10/Tinju-.jpg" group-title="SPORTS HD", BOXING 2
 https://stitcher.pluto.tv/stitch/hls/channel/64df7ab4dfa32400083c517blivestitch/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=f9f2b24b-6a97-11ef-9ed7-d66fb14cb385&profilesFromStream=true
-
-
-#EXTINF:-1 SHD  tvg-logo="https://evolve-mma.com/wp-content/uploads/2022/08/what-is-mixed-martial-arts.jpeg" group-title="SPORTS HD",MMA 1
-https://b81ea6a237a99f732a8a56c17e6e1733.7wzuvg.channel-assembly.mediatailor.us-east-1.amazonaws.com/v1/channel/XFC_TV/index-xfctv.m3u8
-
-#EXTINF:-1 SHD  tvg-logo="https://evolve-mma.com/wp-content/uploads/2022/08/what-is-mixed-martial-arts.jpeg" group-title="SPORTS HD",MMA 2
-https://jmp2.uk/Plex/5e20b730f2f8d5003d739db7-62c8a2d2d774648bcc76a116.m3u8
 
 #EXTINF:-1 SHD  tvg-logo="https://evolve-mma.com/wp-content/uploads/2022/08/what-is-mixed-martial-arts.jpeg" group-title="SPORTS HD",MMA 3
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/62792f34f3aa05000728841e/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
 #EXTINF:-1 SHD  tvg-logo="https://evolve-mma.com/wp-content/uploads/2022/08/what-is-mixed-martial-arts.jpeg" group-title="SPORTS HD",MMA 4
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6334a574605f140007e233c4/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT={TARGETOPT}&deviceId={PSID}&advertisingId={PSID}&us_privacy=1YNY&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-
-
-#EXTINF:-1 tvg-id="14724" tvg-name="Arena Sport 1 HR" tvg-logo="https://tvprofil.com/img/kanali-logo/Arena_Sport_1_HR_logo.png" group-title="SPORTS HD" ,Arena Sport 1 HR
-http://asterix-iptv.club:25461/24HasijaWhatsappmoj/vkqQL1EMf0/1520
-
-#EXTINF:-1 tvg-id="14725" tvg-name="Arena Sport 2 HR" tvg-logo="https://tvprofil.com/img/kanali-logo/Arena_Sport_2_HR_logo.png" group-title="SPORTS HD" ,Arena Sport 2 HR
-http://asterix-iptv.club:25461/24HasijaWhatsappmoj/vkqQL1EMf0/1519
-
-#EXTINF:-1 tvg-id="14726" tvg-name="Arena Sport 3 HR" tvg-logo="https://tvprofil.com/img/kanali-logo/Arena_Sport_3_HR_logo.png" group-title="SPORTS HD" ,Arena Sport 3 HR
-http://asterix-iptv.club:25461/24HasijaWhatsappmoj/vkqQL1EMf0/1518
-
-#EXTINF:-1 tvg-id="14727" tvg-name="Arena Sport 4 HR" tvg-logo="https://tvprofil.com/img/kanali-logo/Arena_Sport_4_HR_logo.png" group-title="SPORTS HD" ,Arena Sport 4 HR
-http://asterix-iptv.club:25461/24HasijaWhatsappmoj/vkqQL1EMf0/1517
-
-#EXTINF:-1 tvg-id="14728" tvg-name="Arena Sport 5 HR" tvg-logo="https://tvprofil.com/img/kanali-logo/Arena_Sport_5_HR_logo.png" group-title="SPORTS HD" ,Arena Sport 5 HR
-http://asterix-iptv.club:25461/24HasijaWhatsappmoj/vkqQL1EMf0/1516
-
-#EXTINF:-1 tvg-id="14729" tvg-name="Arena Sport 6 HR" tvg-logo="https://tvprofil.com/img/kanali-logo/Arena_Sport_6_HR_logo.png" group-title="SPORTS HD" ,Arena Sport 6 HR
-http://asterix-iptv.club:25461/24HasijaWhatsappmoj/vkqQL1EMf0/1510
-
-#EXTINF:-1 tvg-id="26887" tvg-name="Arena Sport 7 HR" tvg-logo="https://tvprofil.com/cdn/200x32/4/img/kanali-logo/Arena_Sport_7_HR_logo.png" group-title="SPORTS HD" ,Arena Sport 7 HR
-http://asterix-iptv.club:25461/24HasijaWhatsappmoj/vkqQL1EMf0/15733
-
-#EXTINF:-1 tvg-id="26888" tvg-name="Arena Sport 8 HR" tvg-logo="https://tvprofil.com/img/kanali-logo/Arena_Sport_8_HR_logo.png" group-title="SPORTS HD" ,Arena Sport 8 HR
-http://asterix-iptv.club:25461/24HasijaWhatsappmoj/vkqQL1EMf0/15734
-
-#EXTINF:-1 tvg-id="26889" tvg-name="Arena Sport 9 HR" tvg-logo="https://tvprofil.com/img/kanali-logo/Arena_Sport_9_HR_logo.png" group-title="SPORTS HD" ,Arena Sport 9 HR
-http://asterix-iptv.club:25461/24HasijaWhatsappmoj/vkqQL1EMf0/15735
-
-#EXTINF:-1 tvg-id="26890" tvg-name="Arena Sport 10 HR" tvg-logo="https://tvprofil.com/cdn/200x32/4/img/kanali-logo/Arena_Sport_10_HR_logo.png" group-title="SPORTS HD" ,Arena Sport 10 HR
-http://asterix-iptv.club:25461/24HasijaWhatsappmoj/vkqQL1EMf0/15736
 
 #EXTINF:-1 group-title="SPORTS HD" tvg-logo="https://i.pinimg.com/originals/20/f8/53/20f853787e15c584b40cb92aee225029.png",BEIN 1
 http://superintendent.whatevergos.com:8080/ABDULLAH/aHVzDrpCMh/142755
@@ -4081,9 +3921,6 @@ http://superintendent.whatevergos.com:8080/ABDULLAH/aHVzDrpCMh/142752
 
 #EXTINF:-1 group-title="SPORTS HD" tvg-logo="https://i.pinimg.com/originals/20/f8/53/20f853787e15c584b40cb92aee225029.png",BEIN 9 
 http://superintendent.whatevergos.com:8080/ABDULLAH/aHVzDrpCMh/142734
-
-
-
 
 
 #########################
@@ -7743,6 +7580,7 @@ https://cdn7iv.diebutx.com/ownhls/2020/779b4fcdf8941dee7a64b1c74a6a7fe5/720p/ind
 https://stream.hownetwork.xyz/xxx/maze-runner-2014-bluray/7/480.m3u8
 
 #EXTM3U billed-msg="Selamat datang di Playlist By Abidin"
+
 
 
 
