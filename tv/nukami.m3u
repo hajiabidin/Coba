@@ -139,9 +139,7 @@ https://op-group1-swiftservehd-1.dens.tv/h/h10/01.m3u8
 https://d2tjypxxy769fn.cloudfront.net/out/v1/7b0404cd6a8a4a908123f10774854e46/index.mpd
 
 #EXTINF:-1 group-title="INDONESIA" tvg-logo="https://raw.githubusercontent.com/hajiabidin/Coba/refs/heads/main/gmb/tv/iNews.png" group-title="INDONESIA",LOKAL - [0027] INEWS (R+)
-#EXTVLCOPT:http-user-agent=android-R+
-#EXTVLCOPT:http-referrer=https://www.rctiplus.com/
-https://r-plus.sedotcw3.workers.dev/index.m3u8?id=inews
+https://alibaba-cdn.cdnpub-maxstream.com/atm/DASH/inews/manifest.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
@@ -7242,6 +7240,7 @@ https://cdn7iv.diebutx.com/ownhls/2020/779b4fcdf8941dee7a64b1c74a6a7fe5/720p/ind
 https://stream.hownetwork.xyz/xxx/maze-runner-2014-bluray/7/480.m3u8
 
 #EXTM3U billed-msg="Selamat datang di Playlist By Abidin"
+
 
 
 
